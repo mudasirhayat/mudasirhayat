@@ -18,7 +18,10 @@
   </a>
   <a href="https://mudasirhayat.com/">
     <img src="https://img.shields.io/badge/Portfolio-mudasirhayat.com-brightgreen?style=flat&logo=safari&logoColor=white">
-  </a> 
+  </a>
+  <a href="https://github.com/mudasirhayat/mudasirhayat/raw/main/Muhammad%20Mudasir%20Hayat.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-blue?style=flat&logo=adobe-acrobat-reader&logoColor=white">
+  </a>
 </p>
 
 #### Now
@@ -32,16 +35,16 @@
 - 💬 Ping me about **Python**, **Django**, **React**, **AI/ML**, **LLMs**, **RAG**, **AWS Cloud**
 
 #### Development Stuffs:
-<b>⚡ Github Stats</b>
 <p float="left">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihassan4198-tech&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan4198-tech&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p> 
 
 #### Languages over Last Year
-<img src="https://raw.githubusercontent.com/mudasirhayat/mudasirhayat/main/languages_chart.png" alt="Languages over Last Year (Python 70%)" width="500" />
+<img src="https://raw.githubusercontent.com/mudasirhayat/mudasirhayat/main/languages_chart.png" alt="Languages over Last Year (Python 70%)" width="500" height="500" />
 
-![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg)
+#### Operating Systems
+<img src="https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg" alt="Operating Systems" width="500" height="500" />
 
 #### Connect With Me
 
