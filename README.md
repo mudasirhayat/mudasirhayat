@@ -39,7 +39,7 @@
 </p> 
 
 #### Languages over Last Year
-<img src="https://raw.githubusercontent.com/mudasirhayat/mudasirhayat/main/languages-chart.png" alt="Languages over Last Year (Python 70%)" width="500" />
+<img src="https://raw.githubusercontent.com/mudasirhayat/mudasirhayat/main/languages_chart.png" alt="Languages over Last Year (Python 70%)" width="500" />
 
 ![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg)
 
