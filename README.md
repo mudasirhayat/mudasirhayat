@@ -1,4 +1,4 @@
-## Hi 👋, I'm Muhammad Mudasir Hayat, a Full Stack Developer working in Punjab, Pakistan
+## Hi 👋, I'm Muhammad Mudasir Hayat, a Full Stack Developer working in Lahore, Pakistan
 
 <p align="left">
 <!--   <a href="https://leetcode.com/mudasirhayat/">
@@ -34,11 +34,9 @@
 - 🌱 Expert in **AI Solutions, Full Stack Development, SaaS Architecture**
 - 💬 Ping me about **Python**, **Django**, **React**, **AI/ML**, **LLMs**, **RAG**, **AWS Cloud**
 
-#### Development Stuffs:
-<p float="left">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihassan4198-tech&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan4198-tech&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
-</p> 
+
+#### Most Used Languages
+<img src="https://github.com/mudasirhayat/mudasirhayat/raw/main/most_used_languages_pill_thin_gapclose.png" alt="Most Used Languages" width="500" height="500" />
 
 #### Languages over Last Year
 <img src="https://raw.githubusercontent.com/mudasirhayat/mudasirhayat/main/languages_chart.png" alt="Languages over Last Year (Python 70%)" width="500" height="500" />
